@@ -12,8 +12,8 @@ public class SampleC {
 			System.out.println(" " + c);
 			a=b;
 			b=c;
-			++i;
-		}while(i<=20);
+			i++;
+		}while(i<=25);
 	}
 
 }
