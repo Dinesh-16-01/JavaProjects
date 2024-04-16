@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Dinesh" failures="0" tests="3" name="test.Sample" time="7.936" errors="0" timestamp="16 Apr 2024 15:04:46 GMT">
+  <testcase classname="test.Sample" name="testCase01" time="7.279"/>
+  <testcase classname="test.Sample" name="testCase02" time="0.39"/>
+  <testcase classname="test.Sample" name="testCase03" time="0.166"/>
+</testsuite>
